@@ -1,0 +1,50 @@
+baseURL: https://nidhihemanth.github.io.
+languageCode: en-us
+title: 'sn99'
+theme: PaperMod
+params:
+    env: production
+    description: "sn99 - Siddharth Naithani"
+    ShowShareButtons: false
+    ShareButtons: ["linkedin", "whatsapp", "twitter"] 
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: true
+    defaultTheme: auto
+    homeInfoParams:
+        # Title: '[~]$ whoami?'
+        Title: Hi, I am Sid 👋
+        Content: >
+            - I have a BS and MS in Computer Science and Engineering from one of the top institutes in my country. I have participated/won in college-level quizzes, and other state hackathons, worked on the college website, volunteered as a lab assistant, and was part of technical clubs.
+    socialIcons: 
+        - name: github
+          url: 'https://github.com/'
+        - name: linkedin
+          url: 'https://www.linkedin.com/'
+        - name: stackoverflow
+          url: https://stackoverflow.com/
+        - name: crates.io
+          url: 'https://crates.io/users/sn99?sort=downloads'
+        - name: cv
+          title: "Resume"
+          url: 'https://docs.google.com/document/d/1269WvydNwKWlxvHck2II-Xqdc5Dhp7uSPfwWW0q-ZUU/edit?usp=sharing'
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+            category: categories
+            tag: tags
+            series: series
+        menu:
+            main:
+                - name: About
+                  url: about
+                  weight: 5
+                - name: Blog
+                  url: blogs
+                  weight: 10
+                - name: Contact
+                  url: contact
+                  weight: 15
