@@ -31,7 +31,6 @@ params:
           url: 'https://docs.google.com/document/d/1269WvydNwKWlxvHck2II-Xqdc5Dhp7uSPfwWW0q-ZUU/edit?usp=sharing'
 languages:
     en:
-        languageName: "English"
         weight: 1
         menu:
             main:
