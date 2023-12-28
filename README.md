@@ -2,7 +2,7 @@
 
 This repository contains the code of my personal blog, built using [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) and [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
 
-Check out my website at [nidhihemanth.github.io](nidhihemanth.github.io)👋
+Check out my website at [nidhihemanth.github.io](https://nidhihemanth.github.io)👋
 
 ## How to run this project locally?
 
