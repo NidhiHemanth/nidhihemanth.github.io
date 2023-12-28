@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sn99</title>
+    <link>https://nidhihemanth.github.io./</link>
+    <description>Recent content on sn99</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nidhihemanth.github.io./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Linux</title>
+      <link>https://nidhihemanth.github.io./blogs/optimizing-linux/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nidhihemanth.github.io./blogs/optimizing-linux/</guid>
+      <description>I am writing this guide to save my progress and let others contribute to increasing linux performance even further; after all, many are better than one. You can use all of them or just a few of them. Read a topic fully before starting.
+I am currently on Nobara, so some steps may vary from distro to distro.
+NOTE: This guide is not for beginners who are new to Linux but a few of them can be used safely by them.</description>
+    </item>
+    <item>
+      <title>Setting up a Windows machine for drivers and minifilters, testing and debugging using VirtualKD-Redux</title>
+      <link>https://nidhihemanth.github.io./blogs/virtualkd-redux/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nidhihemanth.github.io./blogs/virtualkd-redux/</guid>
+      <description>View Original Source &amp;raquo; here.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://nidhihemanth.github.io./about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nidhihemanth.github.io./about/</guid>
+      <description>Hi, I&amp;rsquo;m Sid! I have been active in the Rust community 🦀. I have a good enough handle on Rust and I love to build optimized applications.
+Here are a few highlights about me: Combined professional experience of 2+ years Masters in Computer Science &amp;amp; Engineering Blog post is 1st or 2nd link when you search &amp;ldquo;optimizing linux&amp;rdquo; on Google Over 12k+ downloads on crates.io OpenSource contributor since 2018 My projects have been featured in This-Week-in-Rust Research paper accepted in IEEE conference Contributed to projects like rust-cookbook (2.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://nidhihemanth.github.io./contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nidhihemanth.github.io./contact/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
